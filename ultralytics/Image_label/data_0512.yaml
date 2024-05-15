@@ -1,0 +1,5 @@
+train: train/images/ # 学習の画像のパス
+val: val/images/ # 検証用画像のパス
+
+nc: 3 # クラスの数
+names: ['Sperm', 'NonSperm', 'BlurredSperm'] # クラス名

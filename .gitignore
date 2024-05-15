@@ -1,0 +1,13 @@
+*.png
+*.pt 
+*.jpg
+*.txt
+*.json 
+py-motmetrics-master/
+.ipynb_checkpoints
+wandb
+.txt
+/*.txt
+train/
+val/
+yolov8_Sperm_learning_visem_DETR.ipynb
